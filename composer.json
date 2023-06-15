@@ -1,0 +1,16 @@
+{
+    "name": "marce/php",
+    "autoload": {
+        "psr-4": {
+            "Marce\\Php\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "marcelo"
+        }
+    ],
+    "require": {
+        "chillerlan/php-qrcode": "^4.3"
+    }
+}
